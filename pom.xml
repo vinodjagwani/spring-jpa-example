@@ -21,7 +21,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <com.google.guava.guava.version>22.0</com.google.guava.guava.version>
+        <com.google.guava.guava.version>29.0-jre</com.google.guava.guava.version>
         <io.springfox.springfox-swagger2>2.7.0</io.springfox.springfox-swagger2>
         <io.springfox.springfox-swagger-ui>2.7.0</io.springfox.springfox-swagger-ui>
     </properties>
